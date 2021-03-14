@@ -1,0 +1,18 @@
+.pro-container{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+.product-name{
+    margin-left: 20px;
+    color: blue;
+    font-weight: 400px;
+}
+.product-bttn{
+     padding: 5px 30px;
+    background-color: goldenrod;
+    border-radius: 5px;
+    border: 1px solid goldenrod;
+    cursor: pointer;
+}
